@@ -67,6 +67,29 @@ _Computation Article (MDPI) • Published: 03/21/2021_
 
 ---
 
+## 💻 Projects
+
+### 🚀 Rainfall Prediction Classifier
+Built a machine learning model to predict rainfall based on historical weather data.  
+**Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib  
+[View Project](https://github.com/Penod/rainfall-prediction)
+
+---
+
+### 🔬 Drug Discovery Using Deep Learning
+Predicted drug-target interactions using CNN/DNN architectures for pharmaceutical data.  
+**Tech Stack**: Python, TensorFlow, Streamlit  
+[View Project](https://github.com/Penod/drug-discovery-dl)
+
+---
+
+### 📊 Titanic Survival Classification
+Developed and optimized ML models (Random Forest, Logistic Regression) using cross-validation.  
+**Tech Stack**: Python, Scikit-learn, GridSearchCV  
+[View Project](https://github.com/Penod/titanic-classifier)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Penod&show_icons=true&theme=radical)
@@ -77,7 +100,6 @@ _Computation Article (MDPI) • Published: 03/21/2021_
 
 ---
 
-
 ## 🌟 Interests
 
-HealthTech • Cloud AI • Volunteerism • FinTech • Reading 
+HealthTech • Cloud AI • Volunteerism • FinTech • Reading
