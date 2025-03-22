@@ -32,7 +32,7 @@
 | **Big Data Tools**       | Google BigQuery, PySpark, Hadoop                                                    |
 | **MLOps**                | Streamlit, MLflow, Git                                                              |
 | **Soft Skills**          | Teamwork, Leadership, Problem Solving, Communication, Curiosity                     |
-| **Cloud & Platforms**    | AWS, Google Cloud, GitHub, Postman                                                  |
+| **Cloud & Platforms**    | AWS, Google Cloud, GitHub                                                           |
 
 ---
 
@@ -59,22 +59,25 @@
 
 ---
 
+## 🌟 Publications
+
+**Pharmacophore-Guided Identification of Natural Products as Potential Inhibitors of *Mycobacterium ulcerans* Cystathionine γ-Synthase MetB**  
+_Computation Article (MDPI) • Published: 03/21/2021_  
+[Read the full article](https://www.mdpi.com/2079-3197/9/3/32)
+
+---
+
 ## 📊 GitHub Stats
 
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanueldonkoh&show_icons=true&theme=radical)
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Penod&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueldonkoh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Penod&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emmanueldonkoh&theme=radical)
-
----
-
-## 🏅 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=emmanueldonkoh&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Penod&theme=radical)
 
 ---
+
 
 ## 🌟 Interests
 
-HealthTech • Cloud AI • Volunteerism • FinTech • Reading
+HealthTech • Cloud AI • Volunteerism • FinTech • Reading 
