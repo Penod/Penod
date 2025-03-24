@@ -93,7 +93,8 @@ Developed and optimized ML models (Random Forest, Logistic Regression) using cro
 Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly visualizations.
 
 **Tech Stack:** Python, Pandas, Statsmodels, Plotly  
-[View Project](<link-to-your-notebook-or-visualization>)
+[View Project](https://github.com/Penod/Forecasting-us-vehicle-sales)
+
 
 ---
 
