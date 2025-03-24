@@ -88,6 +88,13 @@ Developed and optimized ML models (Random Forest, Logistic Regression) using cro
 **Tech Stack**: Python, Scikit-learn, GridSearchCV  
 [View Project](https://github.com/Penod/titanic-classifier)
 
+### 🚗 Forecasting U.S. Vehicle Sales
+
+Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly visualizations.
+
+**Tech Stack:** Python, Pandas, Statsmodels, Plotly  
+[View Project](<link-to-your-notebook-or-visualization>)
+
 ---
 
 ## 📊 GitHub Stats
