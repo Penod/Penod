@@ -104,7 +104,6 @@ Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Penod&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Penod&theme=radical)
 
 ---
 
