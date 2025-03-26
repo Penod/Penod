@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Emmanuel Donkoh</h1>
-<h3 align="center">🎯 Data Scientist | Statistician | Biomedical Engineer</h3>
+<h3 align="center">🎯 Data Scientist | AI/ML Engineer | Statistician | Biomedical Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-donkoh" target="_blank">
@@ -39,6 +39,9 @@
 `Scikit-learn` | `TensorFlow` | `XGBoost` | `ARIMA`  
 `Streamlit` | `MLflow` | `Git`
 
+**Cloud & Platforms:**
+`AWS` | `Google Cloud` | `GitHub` 
+
 ---
 
 ## 💻 Projects
@@ -64,13 +67,19 @@ Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly
 
 ---
 
-### 🏆 Certifications
+## 🏆 Certifications
 
-- AWS Certified AI Practitioner *(2025)*  
-- Google Data Analytics & IT Support *(2024)*  
-- Tableau BI Analyst *(2024)*  
-- McKinsey Forward Program *(2023)*  
-- [View all](https://www.credly.com/users/emmanuel-donkoh)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/4edd9a69-635f-46d3-91da-81770fd1d4a4/linked_in_profile)
+
+[![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/a338436f-c907-4eab-9892-d9f4fcb6f996/public_url)
+
+[![Google IT Support](https://img.shields.io/badge/Google_IT_Support-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/2be18b89-6c12-472d-a227-61a6c3a02b1a/public_url)
+
+[![McKinsey Forward](https://img.shields.io/badge/McKinsey_Forward-000000?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/2c011842-9ef9-4399-b588-f34448e29991/public_url)
+
+[![Gen AI with Google](https://img.shields.io/badge/Gen_AI_Intensive_with_Google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/6fea31d8-0b87-46b5-9b71-fcccc9e0d833/linked_in_profile)
+
+[![Python for Data Science](https://img.shields.io/badge/Python_for_Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/S4Y7XGWWBR4A)
 
 ---
 
@@ -86,7 +95,7 @@ Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly
 
 - **Graduate Research/Teaching Assistant** – SFASU (2023–Now)  
   → ML model on 40,000+ students, IT support, and lab mentoring  
-- **Data Analyst** – MIS, Remote (2023)  
+- **Data Analyst** – EmPen Data Consulting (2023)  
   → Predictive modeling, time series forecasting, Tableau dashboards  
 - **Tutor** – Ace Test Prep (2021–2022)  
   → 200+ students mentored for GRE/SAT/GMAT  
