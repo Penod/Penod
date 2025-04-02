@@ -56,7 +56,7 @@ Evaluated model fit, residual diagnostics, and forecasted future prices with con
 ### 🧬 Batch Effect Correction in Gene Expression Data 
 Performed end-to-end analysis to identify and correct batch effects in gene expression data using the `ComBat` algorithm. Assessed confounding between batch and biological condition (cancer status), visualized PCA (2D & 3D), and applied model-based correction to preserve biological signals. Delivered a reproducible `.Rmd` project with visual insights and explanations.  
 **Tech Stack:** R, sva, ggplot2, plotly, viridis, Bioconductor  
-[View Project](https://github.com/YOUR_USERNAME/gene-expression-batch-correction)
+[View Project](https://github.com/Penod/gene-expression-batch-correction)
 
 
 
