@@ -56,6 +56,13 @@ Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly
 **Tech Stack**: Python, Pandas, Statsmodels, Plotly  
 [View Project](https://github.com/Penod/Forecasting-us-vehicle-sales)
 
+### 📈 Time Series Forecasting of Apple Stock (AAPL)
+Performed trend and seasonal analysis on Apple stock prices using **ARIMA** and **ETS** models.  
+Evaluated model fit, residual diagnostics, and forecasted future prices with confidence intervals.  
+**Tech Stack**: R, Forecast, Tidyverse, Tseries, ggplot2  
+[View Project](https://github.com/Penod/AAPL-Time-Series-Analysis)
+
+
 ---
 
 ### 📈 GitHub Stats
