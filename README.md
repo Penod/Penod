@@ -46,22 +46,23 @@
 
 ## 💻 Projects
 
-### 🚀 Rainfall Prediction Classifier  
-Built a machine learning model to predict rainfall based on historical weather data.  
-**Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib  
-[View Project](https://github.com/Penod/rainfall-prediction)
-
-### 🚗 Forecasting U.S. Vehicle Sales  
-Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly visualizations.  
-**Tech Stack**: Python, Pandas, Statsmodels, Plotly  
-[View Project](https://github.com/Penod/Forecasting-us-vehicle-sales)
-
 ### 📈 Time Series Forecasting of Apple Stock (AAPL)
 Performed trend and seasonal analysis on Apple stock prices using **ARIMA** and **ETS** models.  
 Evaluated model fit, residual diagnostics, and forecasted future prices with confidence intervals.  
 **Tech Stack**: R, Forecast, Tidyverse, Tseries, ggplot2  
 [View Project](https://github.com/Penod/AAPL-Time-Series-Analysis)
 
+
+### 🚗 Forecasting U.S. Vehicle Sales  
+Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly visualizations.  
+**Tech Stack**: Python, Pandas, Statsmodels, Plotly  
+[View Project](https://github.com/Penod/Forecasting-us-vehicle-sales)
+
+
+### 🚀 Rainfall Prediction Classifier  
+Built a machine learning model to predict rainfall based on historical weather data.  
+**Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib  
+[View Project](https://github.com/Penod/rainfall-prediction)
 
 ---
 
