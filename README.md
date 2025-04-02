@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Emmanuel Donkoh</h1>
-<h3 align="center">🎯 Data Scientist | AI/ML Engineer | Statistician | Biomedical Engineer</h3>
+<h3 align="center">🎯 Data Scientist | AI/ML Engineer | Biostatistician | Biomedical Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-donkoh" target="_blank">
