@@ -132,7 +132,7 @@ Built a machine learning model to predict rainfall based on historical weather d
 
 ## 🌟 Interests
 
-HealthTech • Cloud AI • Volunteerism • FinTech • Reading
+HealthTech • Cloud AI • Volunteerism • FinTech • Reading • Tutoring
 
 ---
 
