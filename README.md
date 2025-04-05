@@ -1,3 +1,17 @@
+## 🧰 Tech Toolbox
+
+![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+![TABLEAU](https://img.shields.io/badge/TABLEAU-orange?style=for-the-badge&logo=tableau)
+![MLOps](https://img.shields.io/badge/MLOPS-grey?style=for-the-badge)
+![PYSPARK](https://img.shields.io/badge/PYSPARK-orange?style=for-the-badge)
+![HADOOP](https://img.shields.io/badge/HADOOP-yellow?style=for-the-badge)
+![MLFLOW](https://img.shields.io/badge/MLFLOW-lightgrey?style=for-the-badge)
+![STREAMLIT](https://img.shields.io/badge/STREAMLIT-pink?style=for-the-badge&logo=streamlit)
+![BIGQUERY](https://img.shields.io/badge/BIGQUERY-blue?style=for-the-badge&logo=googlecloud)
+
+---
 <h1 align="center">Hi there 👋, I'm Emmanuel Donkoh</h1>
 <h3 align="center">🎯 Data Scientist | AI/ML Engineer | Biostatistician | Biomedical Engineer</h3>
 
@@ -114,6 +128,11 @@ Built a machine learning model to predict rainfall based on historical weather d
   → Predictive modeling, time series forecasting, Tableau dashboards  
 - **Tutor** – Ace Test Prep (2021–2022)  
   → 200+ students mentored for GRE/SAT/GMAT  
+
+
+## 🌟 Interests
+
+HealthTech • Cloud AI • Volunteerism • FinTech • Reading
 
 ---
 
