@@ -127,7 +127,10 @@ Built a machine learning model to predict rainfall based on historical weather d
 - **Data Analyst** – EmPen Data Consulting (2023)  
   → Predictive modeling, time series forecasting, Tableau dashboards  
 - **Tutor** – Ace Test Prep (2021–2022)  
-  → 200+ students mentored for GRE/SAT/GMAT  
+  → 200+ students mentored for GRE/SAT/GMAT
+
+   ![GRE Score1](images/gre_score1.png)
+
 
 
 ## 🌟 Interests
