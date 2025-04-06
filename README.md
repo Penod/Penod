@@ -126,15 +126,21 @@ Built a machine learning model to predict rainfall based on historical weather d
   → ML model on 40,000+ students, IT support, and lab mentoring  
 - **Data Analyst** – EmPen Data Consulting (2023)  
   → Predictive modeling, time series forecasting, Tableau dashboards  
+
 - **Tutor** – Ace Test Prep (2021–2022)  
-  → 200+ students mentored for GRE/SAT/GMAT
+  → Mentored **200+ students** preparing for GRE, SAT, and GMAT exams  
+  → Helped students consistently score in the **top 10–15 percentile** across all sections  
+  → Personalized coaching approach led to a **40% average improvement** in mock test scores  
+  → Below are several verified student score reports showcasing consistent high performance:
 
-   ![GRE Score](images/gre_score1.jpg)
-
+  ![GRE Score](images/gre_score1.jpg)  
+  *Score: Quant 167*
+  
   ![GRE Score](images/gre_score2.jpg)
-
+  *Score: Quant 165*
+  
   ![GRE Score1](images/sat_score.jpg)
-
+  *Score: Math 730*
 
 
 ## 🌟 Interests
