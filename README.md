@@ -34,7 +34,7 @@
 - 🔭 Currently pursuing **MSc in Mathematics & Statistics** at Stephen F. Austin State University  
 - 💡 Passionate about **machine learning**, **data visualization**, and **statistical modeling**
 - 🤝 Open to **collaboration** and **freelance projects**
-- 🧠 Interests: **HealthTech**, **FinTech**, **Cloud AI**, and **Volunteerism**
+- 🧠 Interests: **HealthTech**, **FinTech**, **Cloud AI**, **Tutoring** and **Volunteerism**
 
 ---
 
@@ -145,12 +145,6 @@ Built a machine learning model to predict rainfall based on historical weather d
   
   *Score: Math 730*
 
-
-## 🌟 Interests
-
-HealthTech • Cloud AI • Volunteerism • FinTech • Reading • Tutoring
-
----
 
 ### 🤝 Let's Connect
 
