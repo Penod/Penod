@@ -132,14 +132,17 @@ Built a machine learning model to predict rainfall based on historical weather d
   → Helped students consistently score in the **top 10–15 percentile** across all sections  
   → Personalized coaching approach led to a **40% average improvement** in mock test scores  
   → Below are several verified student score reports showcasing consistent high performance:
-
-  ![GRE Score](images/gre_score1.jpg)  
+  
+  <img src="images/gre_score1.jpg" width="450"/>
+  
   *Score: Quant 167*
+
+  <img src="images/gre_score2.jpg" width="450"/>
   
-  ![GRE Score](images/gre_score2.jpg)
   *Score: Quant 165*
+
+  <img src="images/sat_score.jpg" width="450"/>
   
-  ![GRE Score1](images/sat_score.jpg)
   *Score: Math 730*
 
 
