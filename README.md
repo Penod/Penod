@@ -129,7 +129,11 @@ Built a machine learning model to predict rainfall based on historical weather d
 - **Tutor** – Ace Test Prep (2021–2022)  
   → 200+ students mentored for GRE/SAT/GMAT
 
-   ![GRE Score1](images/gre_score1.png)
+   ![GRE Score](images/gre_score1.jpg)
+
+  ![GRE Score](images/gre_score2.jpg)
+
+  ![GRE Score1](images/sat_score.jpg)
 
 
 
