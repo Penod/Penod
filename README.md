@@ -85,14 +85,6 @@ Built a machine learning model to predict rainfall based on historical weather d
 **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib  
 [View Project](https://github.com/Penod/rainfall-prediction)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Penod&show_icons=true&theme=github_dark&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penod&layout=compact&theme=github_dark" height="150"/>
-</p>
 
 ---
 
