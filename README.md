@@ -60,6 +60,13 @@
 
 ## 💻 Projects
 
+### ❤️ Heart Failure Prediction using Machine Learning
+Built a machine learning pipeline to predict heart failure outcomes using clinical features.  
+Performed exploratory data analysis, applied multiple classifiers, and evaluated model performance using accuracy, precision, recall, and F1-score.  
+**Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
+[View Project](https://github.com/Penod/heartanalysis)
+
+
 ### 📈 Time Series Forecasting of Apple Stock (AAPL)
 Performed trend and seasonal analysis on Apple stock prices using **ARIMA** and **ETS** models.  
 Evaluated model fit, residual diagnostics, and forecasted future prices with confidence intervals.  
