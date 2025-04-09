@@ -18,6 +18,7 @@
 ![PYSPARK](https://img.shields.io/badge/PYSPARK-orange?style=for-the-badge)
 ![HADOOP](https://img.shields.io/badge/HADOOP-yellow?style=for-the-badge)
 ![BIGQUERY](https://img.shields.io/badge/BIGQUERY-blue?style=for-the-badge&logo=googlecloud)
+![MONGODB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![STREAMLIT](https://img.shields.io/badge/STREAMLIT-pink?style=for-the-badge&logo=streamlit)
 ![TABLEAU](https://img.shields.io/badge/TABLEAU-orange?style=for-the-badge&logo=tableau)
