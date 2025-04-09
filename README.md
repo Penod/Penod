@@ -22,6 +22,9 @@
 ![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![SEABORN](https://img.shields.io/badge/SEABORN-1E88E5?style=for-the-badge&logo=seaborn&logoColor=white)
+
 
 ---
 <h1 align="center">Hi there 👋, I'm Emmanuel Donkoh</h1>
