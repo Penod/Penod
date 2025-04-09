@@ -32,7 +32,7 @@
 ---
 
 <h2 align="center">Hi there 👋 - I'm Emmanuel, but everyone calls me <strong>Penod</strong>.</h2>
-<h3 align="center">🎯 Data Scientist | AI/ML Engineer | Biostatistician | Biomedical Engineer</h3>
+<h3 align="center">🎯 Data Scientist | AI/ML Engineer | Bioinformatician | Biomedical Engineer</h3>
 
 
 <p align="center">
