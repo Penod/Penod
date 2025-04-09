@@ -10,6 +10,18 @@
 ![MLFLOW](https://img.shields.io/badge/MLFLOW-lightgrey?style=for-the-badge)
 ![STREAMLIT](https://img.shields.io/badge/STREAMLIT-pink?style=for-the-badge&logo=streamlit)
 ![BIGQUERY](https://img.shields.io/badge/BIGQUERY-blue?style=for-the-badge&logo=googlecloud)
+![PANDAS](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NUMPY](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PLOTLY](https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SCIPY](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![MARKDOWN](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ANACONDA](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![JUPYTER](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 <h1 align="center">Hi there 👋, I'm Emmanuel Donkoh</h1>
