@@ -125,10 +125,6 @@ Built a machine learning model to predict rainfall based on historical weather d
 
 [![McKinsey Forward](https://img.shields.io/badge/McKinsey_Forward-000000?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/2c011842-9ef9-4399-b588-f34448e29991/public_url)
 
-[![Gen AI with Google](https://img.shields.io/badge/Gen_AI_Intensive_with_Google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/6fea31d8-0b87-46b5-9b71-fcccc9e0d833/linked_in_profile)
-
-[![Python for Data Science](https://img.shields.io/badge/Python_for_Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/S4Y7XGWWBR4A)
-
 ---
 
 ### 📚 Publication
