@@ -29,8 +29,10 @@
 ![ANACONDA](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
-<h1 align="center">Hi there 👋, I'm Emmanuel Donkoh</h1>
+
+<h2 align="center">Hi there 👋 - I'm Emmanuel, but everyone calls me <strong>Penod</strong>.</h2>
 <h3 align="center">🎯 Data Scientist | AI/ML Engineer | Biostatistician | Biomedical Engineer</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-donkoh" target="_blank">
