@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
