@@ -161,6 +161,10 @@ Built a machine learning model to predict rainfall based on historical weather d
   
   *Score: Math 730*
 
+  <img src="images/sat_score2.png" width="450"/>
+
+  *Score: Math 730*
+
 
 ### 🤝 Let's Connect
 
