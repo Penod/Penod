@@ -116,13 +116,6 @@ Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly
 **Tech Stack**: Python, Pandas, Statsmodels, Plotly  
 [View Project](https://github.com/Penod/Forecasting-us-vehicle-sales)
 
-
-### 🚀 Rainfall Prediction Classifier  
-Built a machine learning model to predict rainfall based on historical weather data.  
-**Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib  
-[View Project](https://github.com/Penod/rainfall-prediction)
-
-
 ---
 
 ## 🏆 Certifications
