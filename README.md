@@ -81,6 +81,20 @@
 
 ## 💻 Projects
 
+### 🧠 Credit Card Customer Segmentation
+
+Applied unsupervised learning (K-Means clustering) to segment credit card customers by demographics, spending behavior, and credit usage.
+Identified key customer profiles to support targeted marketing and product personalization strategies.
+**Project Objectives**:
+
+* Segment customers into clusters based on key financial indicators.
+* Interpret clusters to generate actionable business insights.
+* Visualize customer distribution and behavioral patterns.
+* Support financial institutions in improved decision-making and targeting.
+  **Tech Stack**: Python, Pandas, Scikit-learn, Seaborn, Plotly
+  [View Project](#) *(Insert GitHub link here)*
+
+
 ### ❤️ Heart Failure Prediction using Machine Learning
 Built a machine learning pipeline to predict heart failure outcomes using clinical features.  
 Performed exploratory data analysis, applied multiple classifiers, and evaluated model performance using accuracy, precision, recall, and F1-score.  
