@@ -87,6 +87,7 @@ Applied unsupervised learning (K-Means clustering) to segment credit card custom
 Identified key customer profiles to support targeted marketing and product personalization strategies.
 
 **Tech Stack**: Python, Pandas, Scikit-learn, Seaborn
+
 [View Project](https://github.com/Penod/Credit_Card_Customer_Segmentation)
 
 
