@@ -33,7 +33,7 @@
 ---
 
 <h2 align="center">Hi there 👋 - I'm Emmanuel, but everyone calls me <strong>Penod</strong>.</h2>
-<h3 align="center">🎯 Data Scientist | AI/ML Engineer </h3>
+<h3 align="center">🎯 AI/ML Engineer | Data Scientist | AWS Certified Machine Learning Engineer – Associate </h3>
 
 
 <p align="center">
@@ -52,8 +52,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently pursuing **MSc in Mathematics & Statistics** at Stephen F. Austin State University  
-- 💡 Passionate about **machine learning**, **data visualization**, and **statistical modeling**
+- 🎓 **MSc in Mathematics & Statistics** – Stephen F. Austin State University
+- 🏆 **AWS Certified Machine Learning Engineer – Associate** | **AWS Certified AI Practitioner**  
+- 💡 Passionate about **machine learning**, **generative AI**, **data visualization**, and **statistical modeling**
+- 🚀 Experienced in **Python**, **R**, **SQL**, **PySpark**, **Scikit-learn**, **TensorFlow**, **Docker**, and **AWS Cloud**
 - 🤝 Open to **collaboration** and **freelance projects**
 - 🧠 Interests: **HealthTech**, **FinTech**, **Cloud AI**, **Tutoring** and **Volunteerism**
 
@@ -120,6 +122,7 @@ Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly
 ---
 
 ## 🏆 Certifications
+[![AWS Certified Machine Learning Engineer – Associate](https://img.shields.io/badge/AWS_ML_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/29888fe1-11c5-40b4-986e-e3c53e54ab5b/linked_in_profile)
 
 [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/4edd9a69-635f-46d3-91da-81770fd1d4a4/linked_in_profile)
 
