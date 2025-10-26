@@ -163,13 +163,6 @@ Forecasted vehicle sales in the U.S. using ARIMA modeling and interactive Plotly
   
   *Score: Quant 165*
 
-  <img src="images/sat_score.jpg" width="450"/>
-  
-  *Score: Math 730*
-
-  <img src="images/sat_score2.png" width="450"/>
-
-  *Score: Math 730*
 
 
 ### 🤝 Let's Connect
