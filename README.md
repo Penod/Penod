@@ -83,6 +83,23 @@
 
 ## 💻 Projects
 
+### 📱 Mobile Price Classification — End-to-End on Amazon SageMaker
+[🔗 View Repository](https://github.com/Penod/mobile-price-classification-sagemaker)
+
+An end-to-end machine learning project built and deployed on **Amazon SageMaker**, predicting mobile price ranges based on device specifications. It showcases the full MLOps lifecycle — from data ingestion and model training to deployment and inference.
+
+**🛠 Tech Stack:**  
+- **Programming Language:** Python 🐍  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Boto3  
+- **Platform:** AWS SageMaker  
+- **Version Control:** Git & GitHub  
+
+**✨ Key Highlights:**  
+- Implemented data preprocessing, feature engineering, and classification model training.  
+- Automated model training and deployment using SageMaker built-in capabilities.  
+- Evaluated model performance and integrated real-time inference endpoint on AWS.  
+
+
 ### 🏠 Boston House Pricing ML Deployment Project
 [🔗 View Repository](https://github.com/Penod/Boston_House_Pricing_ML_Deployment-Project)
 
@@ -91,7 +108,7 @@ A machine learning project that predicts Boston housing prices based on multiple
 **🛠 Tech Stack:**  
 - **Programming Language:** Python 🐍  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
-- **Deployment:** Flask (optional: Heroku)  
+- **Deployment:** Flask  
 - **Version Control:** Git & GitHub  
 
 **✨ Key Highlights:**  
