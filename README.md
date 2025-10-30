@@ -83,6 +83,23 @@
 
 ## 💻 Projects
 
+### 🏠 Boston House Pricing ML Deployment Project
+[🔗 View Repository](https://github.com/Penod/Boston_House_Pricing_ML_Deployment-Project)
+
+A machine learning project that predicts Boston housing prices based on multiple features using regression models. The project demonstrates end-to-end ML workflow — from data preprocessing and model training to deployment using Flask.
+
+**🛠 Tech Stack:**  
+- **Programming Language:** Python 🐍  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Deployment:** Flask (optional: Heroku)  
+- **Version Control:** Git & GitHub  
+
+**✨ Key Highlights:**  
+- Built and trained regression models to predict median housing prices.  
+- Implemented data cleaning, feature scaling, and model evaluation pipelines.  
+- Deployed the trained model as a REST API using Flask.  
+
+
 ### 🧠 Credit Card Customer Segmentation
 
 Applied unsupervised learning (K-Means clustering) to segment credit card customers by demographics, spending behavior, and credit usage.
