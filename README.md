@@ -89,7 +89,7 @@
 An end-to-end machine learning project built and deployed on **Amazon SageMaker**, predicting mobile price ranges based on device specifications. It showcases the full MLOps lifecycle — from data ingestion and model training to deployment and inference.
 
 **🛠 Tech Stack:**  
-- **Programming Language:** Python 🐍  
+- **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Boto3  
 - **Platform:** AWS SageMaker  
 - **Version Control:** Git & GitHub  
@@ -106,7 +106,7 @@ An end-to-end machine learning project built and deployed on **Amazon SageMaker*
 A machine learning project that predicts Boston housing prices based on multiple features using regression models. The project demonstrates end-to-end ML workflow — from data preprocessing and model training to deployment using Flask.
 
 **🛠 Tech Stack:**  
-- **Programming Language:** Python 🐍  
+- **Programming Language:** Python 
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
 - **Deployment:** Flask  
 - **Version Control:** Git & GitHub  
