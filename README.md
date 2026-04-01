@@ -54,7 +54,7 @@
 
 - 🎓 **MSc in Mathematics & Statistics** – Stephen F. Austin State University
 - 🏆 **AWS Certified Machine Learning Engineer – Associate** | **AWS Certified AI Practitioner**  
-- 💡 Passionate about **machine learning**, **generative AI**, **data visualization**, and **statistical modeling**
+- 💡 Passionate about **machine learning**, **data analytics**, **generative AI**, **data visualization**, and **statistical modeling**
 - 🚀 Experienced in **Python**, **R**, **SQL**, **PySpark**, **Scikit-learn**, **TensorFlow**, **Docker**, and **AWS Cloud**
 - 🤝 Open to **collaboration** and **freelance projects**
 - 🧠 Interests: **HealthTech**, **FinTech**, **Cloud AI**, **Tutoring** and **Volunteerism**
