@@ -33,7 +33,7 @@
 ---
 
 <h2 align="center">Hi there 👋 - I'm Emmanuel, but everyone calls me <strong>Penod</strong>.</h2>
-<h3 align="center">🎯 AI/ML Engineer | Data Scientist | Data Analyst | AWS Certified Machine Learning Engineer </h3>
+<h3 align="center">🎯 AI/ML Engineer | Data Analyst | AWS Certified Machine Learning Engineer | Computational Drug Discovery </h3>
 
 
 <p align="center">
